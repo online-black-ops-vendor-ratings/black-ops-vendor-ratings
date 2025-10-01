@@ -27,4 +27,6 @@ Conclusion
 
 Vendor ratings empower users to choose trustworthy sellers and reduce risk on the Black Ops market.
 
-Update:  18 September 2025
+
+
+Update:  01 October 2025 link is responsive
